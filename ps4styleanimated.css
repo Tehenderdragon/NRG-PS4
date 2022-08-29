@@ -1,14 +1,14 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.custom{
-    background: url(nrg.gif);
+    background: url(nrganimated.gif);
     height: 598px;
     width: 806px;
 }
 .custom.white{
-    background: url(nrg.gif);
+    background: url(nrganimated.gif);
 }
 .custom.disconnected {
-    
+    display: none; 
 }
 .custom.disconnected div {
     display: none;
